@@ -1,0 +1,47 @@
+[
+    {"id": 1, "name": "语文老师1", "subject": "语文", "condition": {"unset": [[0, 0, 3]], "conn2": 1}},
+    {"id": 2, "name": "语文老师2", "subject": "语文", "condition": {"conn2": 1}},
+    {"id": 3, "name": "语文老师3", "subject": "语文", "condition": {"unset": [[3, 1, 0]], "conn2": 1}},
+    {"id": 4, "name": "语文老师4", "subject": "语文"},
+    {"id": 5, "name": "语文老师5", "subject": "语文", "condition": {"unset": [[1, 0, 2]]}},
+    {"id": 6, "name": "语文老师6", "subject": "语文", "condition": {"conn2": 1}},
+
+    {"id": 7, "name": "数学老师1", "subject": "数学", "condition": {"conn2": 1}},
+    {"id": 8, "name": "数学老师2", "subject": "数学", "condition": {"conn2": 1}},
+    {"id": 9, "name": "数学老师3", "subject": "数学"},
+    {"id": 10, "name": "数学老师4", "subject": "数学", "condition": {"conn2": 1}},
+    {"id": 11, "name": "数学老师5", "subject": "数学", "condition": {"conn2": 1}},
+    {"id": 12, "name": "数学老师6", "subject": "数学", "condition": {"conn2": 1}},
+
+    {"id": 13, "name": "英语老师1", "subject": "英语", "condition": {"conn2": 1}},
+    {"id": 14, "name": "英语老师2", "subject": "英语", "condition": {"conn2": 1}},
+    {"id": 15, "name": "英语老师3", "subject": "英语", "condition": {"conn2": 1}},
+    {"id": 16, "name": "英语老师4", "subject": "英语", "condition": {"conn2": 1}},
+    {"id": 17, "name": "英语老师5", "subject": "英语", "condition": {"conn2": 1}},
+    {"id": 18, "name": "英语老师6", "subject": "英语", "condition": {"conn2": 1}},
+
+    {"id": 19, "name": "思品1", "subject": "思品"},
+    {"id": 20, "name": "思品2", "subject": "思品"},
+    {"id": 21, "name": "思品3", "subject": "思品"},
+
+    {"id": 22, "name": "生物1", "subject": "生物"},
+    {"id": 23, "name": "生物2", "subject": "生物"},
+    {"id": 24, "name": "生物3", "subject": "生物"},
+
+    {"id": 25, "name": "地理1", "subject": "地理"},
+    {"id": 26, "name": "地理2", "subject": "地理"},
+    {"id": 27, "name": "地理3", "subject": "地理"},
+
+    {"id": 28, "name": "历史1", "subject": "历史"},
+    {"id": 29, "name": "历史2", "subject": "历史"},
+    {"id": 30, "name": "历史3", "subject": "历史"},
+
+    {"id": 31, "name": "体育1", "subject": "体育"},
+    {"id": 32, "name": "体育2", "subject": "体育"},
+
+    {"id": 33, "name": "美术1", "subject": "美术", "condition": {"set": [[null, 1, 1], [null, 1, 2]]}},
+
+    {"id": 34, "name": "音乐1", "subject": "音乐", "condition": {"set": [[null, 1, 1], [null, 1, 2]]}},
+
+    {"id": 35, "name": "信息技术1", "subject": "信息技术"}
+]

@@ -1,0 +1,22 @@
+{
+  "name": "timetable",
+  "version": "0.0.1",
+  "description": "",
+  "main": "do.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coderq/timetable.git"
+  },
+  "keywords": [
+    "timetable"
+  ],
+  "author": "CoderQ",
+  "license": "mit",
+  "bugs": {
+    "url": "https://github.com/coderq/timetable/issues"
+  },
+  "homepage": "https://github.com/coderq/timetable"
+}
